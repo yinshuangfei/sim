@@ -1,0 +1,27 @@
+{
+  "files.associations": {
+    "fsal_commonlib.h": "c",
+    "fsal_types.h": "c",
+    "stdbool.h": "c",
+    "stdlib.h": "c",
+    "*.tcc": "c",
+    "fsal_convert.h": "c",
+    "gsh_list.h": "c",
+    "assert.h": "c",
+    "fsal.h": "c",
+    "fsal_api.h": "c",
+    "array": "c",
+    "internal.h": "c",
+    "utils.h": "c",
+    "fs.h": "c",
+    "pthread.h": "c",
+    "sal_data.h": "c",
+    "abstract_mem.h": "c",
+    "nfs_exports.h": "c",
+    "config_parsing.h": "c",
+    "fsal_config.h": "c",
+    "fsal_handle_syscalls.h": "c",
+    "stat.h": "c"
+  },
+  "cmake.sourceDirectory": "/root/ganesha-sim/nfs-ganesha-5.7/src/FSAL/FSAL_SIM"
+}

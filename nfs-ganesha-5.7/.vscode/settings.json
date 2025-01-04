@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "bcache.h": "c",
+    "ioctl.h": "c",
+    "types.h": "c",
+    "string.h": "c",
+    "time.h": "c",
+    "syscall.h": "c",
+    "in.h": "c",
+    "socket.h": "c",
+    "common.h": "c",
+    "stdio.h": "c",
+    "select.h": "c",
+    "daemon.h": "c",
+    "memory.h": "c",
+    "*.tcc": "c",
+    "logger.h": "c",
+    "bitops.h": "c",
+    "internal.h": "c"
+  }
+}
